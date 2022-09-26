@@ -1,0 +1,10 @@
+.ContactItem{
+    display: flex;
+    align-items: center;
+   
+}
+
+.Item{
+    margin-right: 5px;
+}
+
